@@ -23,6 +23,9 @@ These are my own machine learning models.
 - [Templates ](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Templates)
   * [Regression](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Templates/Regression)
   * [Classification](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Templates/Classification)
+- [Association Rule Learning](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Association%20Rule%20Learning)
+  * [Apriori Association Rule](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Association%20Rule%20Learning/Apriori)
+
   
 ---
 ## More to be Added Soon☺
