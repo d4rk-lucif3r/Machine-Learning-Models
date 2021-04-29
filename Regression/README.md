@@ -1,0 +1,2 @@
+- The Dataset used in these models tells about whether the asked salary for a particular position
+- We need to predict the salary for a person coming for a particular position
