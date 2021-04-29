@@ -1,0 +1,2 @@
+- The Dataset used in these models tells about the spending score of person.
+- We need to cluster the buyer according to their income and spending score.
