@@ -1,0 +1,5 @@
+- There are 10 different ads in this Dataset used in these models
+- Each row corresponds to different user connecting to webpage
+- Each column corresponds to different Ads
+- 1 : Means user clicked on that Ad
+- 0 : Means user didn't clicked on that Ad
