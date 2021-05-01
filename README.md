@@ -20,9 +20,6 @@ These are my own machine learning models.
 - [Clustering](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Clustering)
   * [K-Means Clustering](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Clustering/K-Means%20Clustering)
   * [Hierarchical Clustering](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Clustering/Hierarchical%20Clustering)
-- [Templates ](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Templates)
-  * [Regression](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Templates/Regression)
-  * [Classification](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Templates/Classification)
 - [Association Rule Learning](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Association%20Rule%20Learning)
   * [Apriori Association Rule](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Association%20Rule%20Learning/Apriori)
   * [Eclat Model](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Association%20Rule%20Learning/Eclat)
@@ -31,6 +28,10 @@ These are my own machine learning models.
   * [Thompson Sampling](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Reinforcement%20Learning/Thompson%20Sampling)
 - [Natural Language Processing](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Natural%20Language%20Processing)
   * [Bag of Words](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Natural%20Language%20Processing/Bag%20of%20Word)
+- [Templates ](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Templates)
+  * [Regression](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Templates/Regression)
+  * [Classification](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Templates/Classification)
+
 
   
 ---
