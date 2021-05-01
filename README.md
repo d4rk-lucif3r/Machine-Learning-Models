@@ -25,6 +25,12 @@ These are my own machine learning models.
   * [Classification](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Templates/Classification)
 - [Association Rule Learning](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Association%20Rule%20Learning)
   * [Apriori Association Rule](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Association%20Rule%20Learning/Apriori)
+  * [Eclat Model](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Association%20Rule%20Learning/Eclat)
+- [Reinforcement Learning](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Reinforcement%20Learning)
+  * [Upper Confidence Bound](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Reinforcement%20Learning/Upper%20Confidence%20Bound)
+  * [Thompson Sampling](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Reinforcement%20Learning/Thompson%20Sampling)
+- [Natural Language Processing](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Natural%20Language%20Processing)
+  * [Bag of Words](https://github.com/d4rk-lucif3r/Machine-Learning-Models/tree/main/Natural%20Language%20Processing/Bag%20of%20Word)
 
   
 ---
